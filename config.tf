@@ -1,4 +1,4 @@
-provider aws {
+ZSDgfsbdfzprovider aws {
 	alias = "aws-1"
 	access_key = "secret"
 	secret_key = "secret"
